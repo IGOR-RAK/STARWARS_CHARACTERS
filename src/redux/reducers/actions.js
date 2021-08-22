@@ -1,0 +1,2 @@
+export const BACK_TO_DETAILS = "BACK_TO_DETAILS";
+export const BACK_TO_DETAILS_SAGA = "BACK_TO_DETAILS_SAGA";
